@@ -9,7 +9,7 @@ root = mega/telegram/plugins
 api_key = 
 session = megadlbot
 dustbin = -1001179151275
-allowed_users = [123123123, 321321321]
+allowed_users = [1040726079,797613691]
 
 [database]
 db_host = localhost
